@@ -94,11 +94,6 @@ img {
     height: auto;
 }
 
-a:link {
-    color:rgb(0, 0, 0);
-    text-decoration: none;
-}
-
 footer {
     color:rgb(85, 84, 84);
     text-align: center;
