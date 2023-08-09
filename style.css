@@ -100,3 +100,13 @@ footer {
     padding: 2px 2px;
     font-size: 13px;
 }
+
+@media all and (max-width: 768px) {
+    .column-layout, .column-left, .column-left1, .column-right, .column-right1, .video-container {
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: auto;
+        float: none;
+    }
+}
